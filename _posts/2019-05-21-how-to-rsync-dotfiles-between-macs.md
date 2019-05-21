@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to rsync dotfiles between Macs
-permalink: /how-to-rsync-dotfiles-between-macs
+permalink: /2019-05-21-how-to-rsync-dotfiles-between-macs
 date: 2019-05-21
 tags: rsync dotfile macos mac mabook mbp
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Dockerized ffmpeg video conversion
 date: 2019-05-09
 tags: docker ffmpeg video container
+permalink: /2019-05-09-dockerized-ffmpeg-video-conversion
 ---
 
 Easily convert large `.MOV` files to a compressed VP9 format using the [`jrottenberg/ffmpeg`](https://hub.docker.com/r/jrottenberg/ffmpeg/) docker image.
